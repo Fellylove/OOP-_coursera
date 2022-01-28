@@ -37,5 +37,6 @@ class Superhero (Person):
 
 hero = Superhero ('Storm', 30, 'Queen of Wakanda', 'Oro Monroe', 'Shadow King')
 hero.say_hello ()
-hero.say_age ()
-hero.old_say_hello ()
+# hero.say_age ()
+# hero.old_say_hello ()
+hero.reveal_secret_identity()
